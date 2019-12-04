@@ -1,0 +1,31 @@
+[
+    {
+        "nama" : "Deyos",
+        "umur" : "17",
+        "nrp" : "153040083",
+        "lulus" : "true",
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Doddy Ferdiansyah",
+            "pembimbing2" : "Erik Doank"
+        }
+    },
+
+    {
+        "nama" : "Deyos",
+        "umur" : "17",
+        "nrp" : "153040083",
+        "lulus" : "true",
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Doddy Ferdiansyah",
+            "pembimbing2" : "Erik Doank"
+        }
+    }
+]
